@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Magic_Eight</string>
+    <string name="res_1">"It is certain"</string>
+    <string name="res_2">"It is decidedly so"</string>
+    <string name="res_3">"Without a doubt"</string>
+    <string name="res_4">"Yes, definitely"</string>
+    <string name="res_5">"You may rely on it"</string>
+    <string name="res_6">"As I see it, yes"</string>
+    <string name="res_7">"Most likely"</string>
+    <string name="res_8">"Outlook good"</string>
+    <string name="res_9">"Yes"</string>
+    <string name="res_10">"Signs point to yes"</string>
+    <string name="res_11">"Reply hazy try again"</string>
+    <string name="res_12">"Ask again later"</string>
+    <string name="res_13">"Better not tell you now"</string>
+    <string name="res_14">"Cannot predict now"</string>
+    <string name="res_15">"Concentrate and ask again"</string>
+    <string name="res_16">"Don't count on it"</string>
+    <string name="res_17">"My reply is no"</string>
+    <string name="res_18">"My sources say no"</string>
+    <string name="res_19">"Outlook not so good"</string>
+    <string name="res_20">"Very doubtful"</string>
+    <string name="ask_the_spirits">ASK THE SPIRITS!</string>
+</resources>
